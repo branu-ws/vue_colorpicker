@@ -1,7 +1,7 @@
 {
   "name": "@branu-jp/vue-colorpicker",
   "description": "A Vue.js colorpicker component",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "BRANU",
     "email": "branu.jp"
@@ -24,12 +24,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/https://github.com/branu-ws/@branu-jp/vue-colorpicker.git"
+    "url": "https://github.com/branu-ws/vue_colorpicker"
   },
   "bugs": {
-    "url": "https://github.com/https://github.com/branu-ws/@branu-jp/vue-colorpicker/issues"
+    "url": "https://github.com/branu-ws/vue_colorpicker/issues"
   },
-  "homepage": "https://github.com/https://github.com/branu-ws/@branu-jp/vue-colorpicker#readme",
+  "homepage": "https://github.com/branu-ws/vue_colorpicker",
   "devDependencies": {
     "babel-core": "^6.0.0",
     "babel-eslint": "^7.1.1",
